@@ -1,0 +1,17 @@
+# Ignore zip files
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
